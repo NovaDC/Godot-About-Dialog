@@ -1,0 +1,1 @@
+addons/about_dialog/LICENSE.md
